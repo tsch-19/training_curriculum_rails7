@@ -84,11 +84,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     base64 (0.3.0)
     benchmark (0.5.0)
-
-    bigdecimal (4.1.2)
-
     bigdecimal (4.1.1)
-
     bindex (0.8.1)
     bootsnap (1.16.0)
       msgpack (~> 1.2)
@@ -137,11 +133,7 @@ GEM
       net-imap
       net-pop
       net-smtp
-
-    marcel (1.2.1)
-
     marcel (1.1.0)
-
     matrix (0.4.2)
     method_source (1.0.0)
     mini_mime (1.1.2)
@@ -149,11 +141,7 @@ GEM
     msgpack (1.7.1)
     mutex_m (0.3.0)
     mysql2 (0.5.5)
-
-    net-imap (0.6.4)
-
     net-imap (0.6.3)
-
       date
       net-protocol
     net-pop (0.1.2)
@@ -253,11 +241,7 @@ GEM
       railties (>= 6.0.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-
-    tzinfo-data (1.2026.2)
-
     tzinfo-data (1.2026.1)
-
       tzinfo (>= 1.0.0)
     web-console (4.2.0)
       actionview (>= 6.0.0)
